@@ -1,6 +1,6 @@
-#ifndef SYSTICK_H
+#ifndef DELAY_H
 
-#define SYSTICK_H
+#define DELAY_H
 // about the default CPU frequency, see
 // https://stackoverflow.com/questions/34258254/msp430-delay-cycles-is-slow-mclk-might-be-slow
 // in order to make delay more accurate, set CPU frequency to 25MHz
